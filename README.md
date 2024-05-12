@@ -1,0 +1,3 @@
+This is my undergraduate dissertation. It is a binay clasifier of MRI brain tumour images using the pytorch framework. The brain tumour dataset retrieved from Kaggle (user who uploaded dataset: Praneet0327, Kaggle) contains 2000 negative instances or non-tumorous images, this class includes MRI images of people who don't appear to have any brain tumours. 
+This is the reference data for healthy brain states and architecture. The dataset also includes 3266 images with tumours this includes patients with gliomas, meningiomas, and pituitary adenomas, 
+among other forms of brain tumours. These images demonstrate the existence of tumours in the brain at various stages and locations.
